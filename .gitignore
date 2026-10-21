@@ -1,0 +1,13 @@
+# Maven build files
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+
+# Operating system
+.DS_Store
+Thumbs.db
